@@ -18,5 +18,5 @@ app.get('/', async function(req, res){
 })
 
 app.listen(3000, function() {
-  console.log('App de Exemplo escutando na porta 3000!')
+  console.log('App de Exemplo escutando na porta similiguido3000!')
 });
